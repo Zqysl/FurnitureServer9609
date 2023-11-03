@@ -1,0 +1,1 @@
+import{h as r}from"./http-8cec2738.js";const s=t=>{const e={url:"/furnitures/paypalpaymentcheckout/",method:"POST",data:t,mode:"json"};return r.request(e)},n=t=>{const e={url:"/furnitures/paypalpaymentreturn",method:"GET",params:t};return r.request(e)};export{n as c,s as p};
