@@ -1,0 +1,1 @@
+import{d as e,e as n,o as t,f as a}from"./index-598e1e45.js";const p=e({__name:"MainLayout",setup(r){return console.log("main layout loaded."),(s,c)=>{const o=n("RouterView");return t(),a(o)}}});export{p as default};
