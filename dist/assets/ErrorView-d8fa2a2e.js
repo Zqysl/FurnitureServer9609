@@ -1,0 +1,1 @@
+import{d as o,o as a,c as t,a as r,b as c,r as n}from"./index-48e4bbc4.js";const _=o({__name:"ErrorView",setup(s){const e=()=>{n.push({path:"login"})};return(i,l)=>(a(),t("div",null,[r(" 404 "),c("div",{onClick:e}," Click me to go back to Login ")]))}});export{_ as default};
