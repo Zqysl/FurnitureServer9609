@@ -1,1 +1,0 @@
-import{h as r}from"./http-dc5150a7.js";const o=t=>{const e={url:"/furnitures/products/page",method:"GET",params:t};return r.request(e)},u=t=>{const e={url:"/furnitures/products/add/",method:"POST",data:t,mode:"file"};return r.request(e)},d=t=>{const e={url:"/furnitures/products/delete/",method:"POST",data:t,mode:"json"};return r.request(e)};export{u as c,d,o as g};
